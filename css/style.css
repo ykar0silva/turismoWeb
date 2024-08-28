@@ -43,4 +43,36 @@
     margin-left: 1em !important;
     padding: 1em !important;
 }
+.img-social{
+    width: 3em;
+    margin-left: 3em;
 
+}
+.social{
+    color: black;
+    text-decoration: none;
+}
+.content-social{
+    margin-left: 10em;
+}
+.content-line{
+        margin-bottom: 2em;
+
+}
+.map{
+    text-align: center;
+}
+.content-row1{
+    border-radius: 2%;
+    padding: 1em;
+    flex: 1;
+    margin: 0.5em;
+    border: 1px solid black
+}
+.content-row2{
+    border-radius: 2%;
+    padding: 1em;
+    flex: 1;
+    margin: 0.5em;
+    border: 1px solid black;
+}
